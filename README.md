@@ -27,7 +27,7 @@ Tables
 Product analysis
 Sales information
 Order-related analysis
-A CLEANED DATASET AND PIVOT CHARTS
+A CLEANED DATASET AND PIVOT CHARTS https://github.com/temitopeolakanmi420-glitch/TEMITOPE-decodelabs-project-2/blob/main/Dataset%20for%20Data%20Analytics.xlsx%20%20%20FOR%20DECODE%2
 
 The dashboard was designed to make the results easier to understand and communicate.
 
