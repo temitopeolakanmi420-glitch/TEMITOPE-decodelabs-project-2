@@ -27,6 +27,7 @@ Tables
 Product analysis
 Sales information
 Order-related analysis
+A CLEANED DATASET AND PIVOT CHARTS
 
 The dashboard was designed to make the results easier to understand and communicate.
 
@@ -35,6 +36,7 @@ Dashboard Preview
 
 
 ![Excel Dashboard](Dashboard/Dashboard%20Screenshot.png)
+(DASHBOARD PREVIEWhttps://github.com/temitopeolakanmi420-glitch/TEMITOPE-decodelabs-project-2/blob/main/Screenshot%202026-08-11%20005220.png)
 
 ##🛠️ Tools Used
 ##Tool	Purpose
