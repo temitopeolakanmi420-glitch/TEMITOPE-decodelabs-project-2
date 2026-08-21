@@ -35,6 +35,7 @@ Dashboard Preview
 
 
 ![Excel Dashboard](Dashboard/Dashboard%20Screenshot.png)
+
 ##🛠️ Tools Used
 ##Tool	Purpose
 Microsoft Excel	Data cleaning, analysis, calculations, visualization and dashboard creation
