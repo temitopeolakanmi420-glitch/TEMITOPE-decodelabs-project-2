@@ -16,7 +16,6 @@ These measures helped provide a basic understanding of the distribution and char
 
 📊 Excel Dashboard
 
-After completing the data cleaning and analysis, an Excel dashboard was created to visually present the results.
 
 The dashboard was created entirely using Microsoft Excel.
 
@@ -33,11 +32,11 @@ The dashboard was designed to make the results easier to understand and communic
 
 Dashboard Preview
 
-Add your dashboard screenshot to the repository and display it here:
+
 
 ![Excel Dashboard](Dashboard/Dashboard%20Screenshot.png)
-🛠️ Tools Used
-Tool	Purpose
+##🛠️ Tools Used
+##Tool	Purpose
 Microsoft Excel	Data cleaning, analysis, calculations, visualization and dashboard creation
 🔄 Project Workflow
 
@@ -56,7 +55,7 @@ Descriptive Statistics
 Data Visualization
      ↓
 Excel Dashboard
-💡 Key Learning Outcomes
+##💡 Key Learning Outcomes
 
 Through this project, I gained practical experience in:
 
@@ -69,21 +68,13 @@ Performing exploratory data analysis.
 Creating charts and visualizations.
 Designing an Excel dashboard.
 Presenting data-driven findings clearly.
-📂 Repository Contents
-decode-labs-project-1-data-analysis/
-│
-├── Dataset/
-│   └── Dataset for Data Analytics.xlsx
-│
-├── Dashboard/
-│   └── Dashboard Screenshot.png
-│
-└── README.md
+
+
 👩🏽‍💻 Author
 
 Olakanmi Temitope
 
-Aspiring Data Analyst passionate about using data to uncover insights, solve business problems, and support data-driven decision-making.
+A Data Analyst passionate about using data to uncover insights, solve business problems, and support data-driven decision-making.
 
 Skills Demonstrated
 Microsoft Excel
